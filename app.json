@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "READY_TABLE_Create_Ver",
+    "slug": "READY_TABLE_Create_Ver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "READY_TABLE_Create_Ver"
+}
