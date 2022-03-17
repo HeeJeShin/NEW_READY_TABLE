@@ -52,9 +52,9 @@ const PickListUI = (props: any) => {
           <PickListCard
             key={el._id}
             onPress={() => {
-              navigation.navigate("detail", {
+              navigation.navigate("detail" as never, {
                 id: props.onPressDetail(el)
-              });
+              } as never);
             }}
           >
             {el.images[0] ? (

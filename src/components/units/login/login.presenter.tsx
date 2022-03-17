@@ -57,7 +57,7 @@ const MainLoginUi = (props: any) => {
 
       <TouchableOpacity
         onPress={() => {
-          navigation.navigate("signUp");
+          navigation.navigate("signUp" as never);
         }}
       >
         <SignUpWrapper>

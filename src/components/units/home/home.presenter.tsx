@@ -34,7 +34,6 @@ import Carousel from "./carousel";
 import { Ionicons } from "@expo/vector-icons";
 import { AntDesign } from "@expo/vector-icons";
 import { GlobalContext } from "../../../../App";
-import { Icon } from "react-native-elements/dist/icons/Icon";
 
 const HomeUI = props => {
   const navigation = useNavigation();
@@ -54,9 +53,9 @@ const HomeUI = props => {
             <BestItem
               key={el._id}
               onPress={() =>
-                navigation.navigate("detail", {
+                navigation.navigate("detail" as never,  {
                   id: props.onPressDetail(el)
-                })
+                } as never)
               }
             >
               <BestItemImage source={{ uri: el.images[0] }} resizeMode="cover">
@@ -80,9 +79,9 @@ const HomeUI = props => {
               <ListButton
                 key={el._id}
                 onPress={() =>
-                  navigation.navigate("detail", {
+                  navigation.navigate("detail" as never, {
                     id: props.onPressDetail(el)
-                  })
+                  } as never)
                 }
               >
                 <ListIamge source={{ uri: el.images[0] }} resizeMode="cover" />

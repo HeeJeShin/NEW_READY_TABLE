@@ -28,14 +28,14 @@ const MyPageUI = (props: any) => {
           <MyInfoWrapper>
             <MyInfo>정보관리</MyInfo>
           </MyInfoWrapper>
-          <MyProfileWrapper onPress={() => navigation.navigate("프로필")}>
+          <MyProfileWrapper onPress={() => navigation.navigate("프로필" as never)}>
             <MyProfile>프로필</MyProfile>
           </MyProfileWrapper>
         </MyPageHeader>
         <MyPageBody>
           <MyPageBodyTitle>설정</MyPageBodyTitle>
           <MyPageContentsWrapper
-            onPress={() => navigation.navigate("내 정보 수정")}
+            onPress={() => navigation.navigate("내 정보 수정" as never)}
           >
             <MyPageBodyContents>내 정보 수정</MyPageBodyContents>
             <AntDesign name="right" style={{ color: "black" }} size={8} />

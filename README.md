@@ -42,15 +42,15 @@ ex) TE_HOME_220111_01
 
 # TEAM Figma
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e191e1e-488f-4172-8ba5-e2e485869bdc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220205T063359Z&X-Amz-Expires=86400&X-Amz-Signature=518baf4213a9e64ae6cb6ea2453b4856658ec41cb1a559351ac604f960fa04c5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e191e1e-488f-4172-8ba5-e2e485869bdc/Untitled.png)
 
 # 라이브러리와 API
 
 # #폴더구조
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9b87fd5f-aee3-4307-b5fd-0299fb900fe2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220205T063442Z&X-Amz-Expires=86400&X-Amz-Signature=f994708138c903a391e24b6633589dea9f0f3fec9a5dad90a12f7b77e1f4a485&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b87fd5f-aee3-4307-b5fd-0299fb900fe2/Untitled.png)
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eb092a19-6fc5-4f92-be59-523fda31f63c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220205T063508Z&X-Amz-Expires=86400&X-Amz-Signature=0e9beb48d0d11ddce2e22c2db2507d4fb1b5701e011965fa52d6f3feb8f8217d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb092a19-6fc5-4f92-be59-523fda31f63c/Untitled.png)
 
 # 팀원 역할분배
 
