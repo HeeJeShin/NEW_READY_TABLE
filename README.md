@@ -1,4 +1,4 @@
-# READY_TABLE_CREATE_VER# NEW_READY_TABLE
+# READY_TABLE_CREATE_VER
 
 ![image](https://user-images.githubusercontent.com/84891687/152631468-0b79b3d5-929e-463a-bb04-501400276ddf.png)
 
@@ -6,6 +6,7 @@
 
 ## 프로젝트 개요
 
+- 기존 expo 배포에서 Create React Native 버전으로 다시만들어졌습니다.
 - 구로구를 한정으로하는 점심예약어플입니다.
 - 직장인들을 위한 빠르게 점심을 예약하고 줄서지않기위한 어플로 빠르고 편한 식사를 돕습니다.
 
